@@ -1850,6 +1850,10 @@ input, select, textarea {
 		text-align: center;
 	}
 
+	.box.post {
+		text-align: center;
+	}
+
 	.box.excerpt .date {
 		background: #878787;
 		color: #fff;
@@ -1863,6 +1867,18 @@ input, select, textarea {
 		letter-spacing: 2px;
 		padding: 0.25em 1em 0.25em 1em;
 		margin: 0 0 2.5em 0;
+	}
+
+	.box.post p {
+		font-size: 1.3em;
+	}
+
+	.box.post h2 {
+		font-size: 2.5em;
+	}
+
+	.box.post h3 {
+		font-size: 1.5em;
 	}
 
 /* Icons */
