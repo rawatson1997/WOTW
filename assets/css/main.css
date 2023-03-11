@@ -2178,8 +2178,8 @@ input, select, textarea {
 	#content > article {
 		border-top: solid 2px #e5e5e5;
 		box-shadow: inset 0px 8px 0px 0px #fff, inset 0px 10px 0px 0px #e5e5e5;
-		margin: 5em 5em 5em 5em;
-		padding: 5em 5em 5em 5em;
+		margin: 7em 7em 7em 7em;
+		padding: 7em 7em 7em 7em;
 	}
 
 		#content > section:first-child,
